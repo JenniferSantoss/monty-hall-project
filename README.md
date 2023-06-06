@@ -1,4 +1,8 @@
-# montyhall
+# Monty Hall 
+## Working Project Preview
+
+[visualize-aqui-projeto-funcionando.webm](https://github.com/JenniferSantoss/monty-hall-project/assets/123119520/11536233-8491-4fab-b8d6-8952998dc6d7)
+
 
 ## Project setup
 ```
